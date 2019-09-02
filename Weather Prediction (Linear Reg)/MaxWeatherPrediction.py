@@ -1,3 +1,7 @@
+# Linear Regression
+# Date: 01/09/2019
+# Author: Pranay Saha
+
 import pandas as pd
 
 weather_data= pd.read_csv('Summary of Weather.csv')
